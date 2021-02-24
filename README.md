@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 
 ### Lil Galo
 
-#### E aí, bão? 👋
+#### E aí, bão? 👋🏻
 Programação para mim é uma paixão, procuro sempre aprender, exercitar e me manter atualizado com o que chama minha atenção!
 Eu sou um Desenvolvedor Júnior :computer:
+Meus pronomes são: Ele/Dele | My pronouns are: He/Him
 
- :blue_heart: &nbsp; Estou trabalhando na **TecnoJr**, uma empresa júnior de computação com sede na Universidade Estadual de Santa Cruz (UESC), na Bahia!
+ :blue_heart: &nbsp; Estou trabalhando na **TecnoJr**, uma empresa júnior de computação com sede na
+ <br/> &nbsp; &nbsp; &nbsp; &nbsp; Universidade Estadual de Santa Cruz (UESC), na Bahia!
  <br/> :smiley: &nbsp; Tenho buscado colaborar com projetos em Front-end usando React Native, para aprender e me aprofundar na stack
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, jQuery, Java e sei uma coisinha ou outra de Python 
  <br/> 🌱 &nbsp; Atualmente estou estudando Node.js, pela NextLevelWeek #04 da Rocketseat, e React Native!
