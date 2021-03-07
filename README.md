@@ -24,7 +24,7 @@ Programação para mim é uma paixão, procuro sempre aprender, exercitar e me m
  :blue_heart: &nbsp; Estou trabalhando na **TecnoJr**, uma empresa júnior de computação com sede na UESC, na Bahia!
  <br/> :smiley: &nbsp; Tenho buscado colaborar com projetos em Front-end usando React Native, para aprender e me aprofundar na stack
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, jQuery, Java e sei uma coisinha ou outra de Python 
- <br/> 🌱 &nbsp; Atualmente estou estudando Node.js, pela NextLevelWeek #04 da Rocketseat, e React Native!
+ <br/> 🌱 &nbsp; Atualmente estou estudando Node.js, pela Rocketseat, e React Native por contra própria!
  <br/> :coffee: &nbsp; Meus estudos são mais hands on do que leitura, mas eu acabo vendo muitos vídeos antes de começar alguma coisa
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, animes, games, seriados no Netflix, andar de moto para relaxar, e muita, muita, música!
  <br/> 📫 &nbsp; Você pode me achar por aqui: [![Linkedin Badge](https://img.shields.io/badge/-LilGalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilgalo/)](https://www.linkedin.com/in/lilgalo/)
