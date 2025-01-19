@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 #### Hey, what's up? 👋🏻
 Working to be a good developer who adds value and knowledge!
-<br/> I'm a Junior Developer :computer:
+<br/> I'm a Software Engineer :computer:
 <br/> I speak brazilian portuguese, english and I'm studying korean!
 <br/> My pronouns are: He/Him
 
-:blue_heart: &nbsp; I'm a intern at **CEPEDI**, a tech company located in Ilhéus, Bahia, Brazil!
+:blue_heart: &nbsp; I'm a Junior Software Engineer at **CEPEDI**, a tech company located in Ilhéus, Bahia, Brazil!
 <br/> :computer: &nbsp; Skills: .NET, C#, Angular, Node.js, Ruby on Rails, HTML/CSS/JS
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have experience with AutoFixture, AutoMapper, Postgresql, SQL, Git, Scrum and Kanban!
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I also have experience with Unit Testing, AutoFixture, AutoMapper, Postgresql, SQL, Git, Scrum and Kanban!
 <br/><br/> :coffee: &nbsp; I'm more of a hands on person, so I like trying things while learning so I can understand what I'm doing and how things work
 <br/> 💬  &nbsp; About me: I love games, listening to music and I'm creating a game in Godot!
  
